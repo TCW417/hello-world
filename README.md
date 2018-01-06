@@ -1,7 +1,10 @@
 # hello-world
-Initial tutorial on use of GitHub
 
-Greetings Earthlings!
+Readme file created as part of initial tutorial on use of GitHub
+
+Greetings Humans!
+
+I've been readng a series of novels about humans talking with dolphins and gorillas through translation software. 
 
 This is the readme file for my very first Git repository. 
 
