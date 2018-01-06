@@ -1,5 +1,6 @@
 # hello-world
-Initial tutorial on use of GitHub
+
+Readme file created as part of initial tutorial on use of GitHub
 
 Greetings Earthlings!
 
